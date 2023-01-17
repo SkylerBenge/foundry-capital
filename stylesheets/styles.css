@@ -16,8 +16,9 @@ body {
 }
 
 .email a {
-  color: #4F4A51;
-  font-size: 22px;
+  color: #6F6A71;
+  font-size: 16px;
+  text-decoration: none;
 }
 
 .email a:hover {
